@@ -1,0 +1,1 @@
+import{t as e}from"./faq.BCh3L0Zo.js";e(),document.querySelectorAll(`[data-package-card]`).forEach(e=>{e.addEventListener(`click`,t=>{t.defaultPrevented||!(t.target instanceof Element)||t.target.closest(`a,button,input,select,textarea,summary,details`)||window.getSelection()?.toString()||e.querySelector(`.price-disclosure summary`)?.click()})});

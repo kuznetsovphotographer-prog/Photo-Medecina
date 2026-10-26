@@ -1,0 +1,21 @@
+{
+  "source": "Google Fonts, distributed as unmodified variable WOFF2 subsets by Fontsource",
+  "license": "SIL Open Font License 1.1",
+  "packages": {
+    "golos-text": {
+      "version": "5.3.0",
+      "url": "https://cdn.jsdelivr.net/npm/@fontsource-variable/golos-text@5.3.0/",
+      "googleFonts": "https://fonts.google.com/specimen/Golos+Text"
+    },
+    "unbounded": {
+      "version": "5.3.0",
+      "url": "https://cdn.jsdelivr.net/npm/@fontsource-variable/unbounded@5.3.0/",
+      "googleFonts": "https://fonts.google.com/specimen/Unbounded"
+    },
+    "manrope": {
+      "version": "5.3.0",
+      "url": "https://cdn.jsdelivr.net/npm/@fontsource-variable/manrope@5.3.0/",
+      "googleFonts": "https://fonts.google.com/specimen/Manrope"
+    }
+  }
+}

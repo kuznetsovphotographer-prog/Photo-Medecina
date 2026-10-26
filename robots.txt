@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Local preview: pages carry noindex,follow.
