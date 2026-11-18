@@ -173,7 +173,7 @@ postbox-store.js, package.json, package-lock.json. Один архив испо�
 | Delivery, МСК | 18.11.2026 15:57:48 |
 | Письмо во входящих | Одно письмо `notifications@prointeriors.ru` → `TheAlexMay@yandex.ru`, тема «Новая заявка с сайта promedphoto.ru» |
 | Содержание и ссылки | Домен, ID, серверное время; обе ссылки совпадают и ведут на ожидаемую защищённую CRM-карточку, клиентских полей нет |
-| Исходники backend и отчёт | Отдельная ветка `codex/promedphoto-postbox-2026-11-18`; ссылка на коммит передана в итоговом сообщении владельцу |
+| Исходники backend | Commit [`682698ec061e78aa0046d6dbf2e5ea3977687cd7`](https://github.com/kuznetsovphotographer-prog/Photo-Medecina/commit/682698ec061e78aa0046d6dbf2e5ea3977687cd7), ветка `codex/promedphoto-postbox-2026-11-18` |
 
 Источник результата — наблюдения основного агента во встроенном браузере Codex:
 облачная консоль, YDB, Postbox, Яндекс Почта и CRM. Свидетельства:
